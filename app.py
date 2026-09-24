@@ -20,7 +20,7 @@ if "bills" not in st.session_state:
 # ==========================
 menu = {
    "Đồ ăn": {
-       "Pizza Hải Sản": 120000,"Tôm Hùm Bông": 500000
+       "Pizza Hải Sản": 120000,"Tôm Hùm Bông": 150000,
        "Mì Ý Bò Bằm": 50000,
        "Burger Gà": 65000,
        "Salad Trộn": 50000,
